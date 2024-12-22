@@ -13,6 +13,7 @@ Installation:
 Clone the Repository
 Use the following command to clone the repository:
 
-git clone https://github.com/your-username/square-root-bisection.git
+git clone https://github.com/your-username/square-root-bisection.git\
+
 cd square-root-bisection
 
